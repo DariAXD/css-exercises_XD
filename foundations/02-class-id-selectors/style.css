@@ -1,0 +1,21 @@
+.oddNum{
+    background-color:rgb(233, 152, 152);
+    font-family: Verdana,'DejaVu Sans',sans-serif;
+
+
+}
+
+#secondNum{
+    color:blue;
+    font-size:36px;
+
+}
+
+#fourthNum{
+    background-color: hsl(111, 74%, 71%);
+    font-weight: bold;
+}
+
+.oddNum.font24, #fourthNum{
+    font-size:24px;
+}
